@@ -167,7 +167,7 @@ only files under `src/` with extensions `vue, html, mdx, pug, jsx, tsx` will be 
 
 ```ts
 // windi.config.js
-import { defineConfig } from 'windcss/helpers'
+import { defineConfig } from 'windicss/helpers'
 
 export default defineConfig({
   extract: {
